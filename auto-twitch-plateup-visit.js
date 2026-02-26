@@ -2,7 +2,7 @@
 // @name           Auto Twitch PlateUp! Visit
 // @name:tr        Otomatik Twitch PlateUp! Ziyaret
 // @namespace      https://github.com/Arcdashckr/Auto-Twitch-PlateUp-Visit
-// @version        1.0.0
+// @version        1.0.1
 // @description    Creates button for sending "!visit" to chat when streamer playing PlateUp!
 // @description:tr Yayıncı PlateUp! oynarken sohbete "!visit" yazmak için bir buton oluşturur!
 // @author         Arcdashckr
@@ -13,8 +13,8 @@
 // @grant          GM_setValue
 // @grant          GM_listValues
 // @license        MIT
-// @updateURL      https://github.com/Arcdashckr/Auto-Twitch-PlateUp-Visit/raw/main/Auto-Twitch-PlateUp-Visit.js
-// @downloadURL    https://github.com/Arcdashckr/Auto-Twitch-PlateUp-Visit/raw/main/Auto-Twitch-PlateUp-Visit.js
+// @updateURL      https://github.com/Arcdashckr/Auto-Twitch-PlateUp-Visit/raw/main/auto-twitch-plateup-visit.js
+// @downloadURL    https://github.com/Arcdashckr/Auto-Twitch-PlateUp-Visit/raw/main/auto-twitch-plateup-visit.js
 // @supportURL     https://github.com/Arcdashckr/Auto-Twitch-PlateUp-Visit/issues
 // ==/UserScript==
 
